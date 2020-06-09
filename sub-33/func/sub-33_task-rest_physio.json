@@ -1,9 +1,0 @@
-{
-  "Columns": [
-    "cardiac",
-    "SPO2",
-    "trigger"
-  ],
-  "SamplingFrequency": 14.705,
-  "StartTime": 0
-}
