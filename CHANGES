@@ -1,3 +1,5 @@
+1.2.0 2020-06-11
+  - publication
 1.1.0 2020-06-11
   - Deletion of the physio and T2w files, as they were not present for all subjects.
 1.0.1 2020-06-11
